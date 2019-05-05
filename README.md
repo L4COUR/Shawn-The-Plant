@@ -1,4 +1,44 @@
 # Shawn-The-Plant
+
+## Pitch-Notes
+### Why
+- There is a gap between the personal consumption of water 
+in one’s own home, 
+and realizing its impact on a global scale.
+- Even so, in our times we have an increasing amount of motivated people who want to act and behave sustainably; 
+how can we help them achieve that?
+
+### How
+- Grundfos already has the pumps and the data to use.
+- In our design, we have taken this data extracted by the pumps 
+and used it to create an engaging and fun, ethical, and user-centered design. 
+- This design is namely a challenge, a game, for the user to willingly take part in 
+in order to decrease their negative footprints on the world and do their own part to help.
+- In order to overcome the unique challenge posed by this design,
+users must adjust their overall use of water in the private home towards less excessive consumption.
+- We believe that a challenge, by virtue of being fun and stimulating, 
+creates the perfect conditions for personal reflection and commitment 
+on matters of environment and ethical water consumption. 
+- This corresponds with the sustainability development goal 13 posed by the UN: 
+Take urgent action to combat climate change and its impacts.
+
+### What
+- So, our design is a plant, but not just any plant. The design contains a beautiful pot fit for modern living room, a storage unit for water, a pump to facilitate watering the plant, and the identity, that is, the plant itself.
+- Based on your daily water consumption cataloged as data, you water the plant sufficiently to keep it alive and happy.  (*add water)
+- We call him “Shawn the Plant”
+- happy smiley*
+- However, this state of sustainable balance really depends on an ethical consumption of water; 
+if you overstep a daily quota, Shawn will not be watered by the pump; Shawn will eventually be sad and dry, and in need of water to stay alive.
+- *ked af det smiley*
+- You do have time to save Shawn by balancing your use of water once again; but if you don’t, Shawn will suffer the consequences of reckless consumption
+*død*, game over
+- Therefore, our design challenges the user to act and reflect on sustainability in their homes. 
+The gamified objective, to keep Shawn alive, 
+is a fun and ultimately rewarding experience 
+that pushes an already concerned citizen to take on responsibility and regulate own water consumption and excess.
+
+
+## Koncept
 Design søger en målgruppe af mennesker, der er bevidste om miljødebatten, og som ønsker at yde deres eget bidrag som privatperson. Med designet kan dette gøres ved konkret at dreje sig om Grundfos/pumper og vandforbrug. Dermed søger det dels at skabe opmærksomhed om vandstrukturen i private hjem og det underliggende teknologi og besvær for miljø; dels søger det at aktivere en på forhånd motiveret bruger til at handle reflekteret på miljøet gennem forbrug af vand i eget hjem.   
 
 
@@ -18,3 +58,5 @@ Designet har meget symbolik og opildner til refleksion om samfundsmæssige konse
 
 
 Udseendet er simplistisk; det er organisk Argument for tørken: Skabe spændvidde for legende engagement. Også stor symbolsk værdi, og refleksionen er bedst, hvis det sker gennem legende engagement. 
+
+**Keep Shawn Alive!**
