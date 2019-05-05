@@ -1,0 +1,48 @@
+{
+  "name": "reason-react-template",
+  "author": "Steffan Sølvsten",
+  "contributors": [
+    "Steffan Sølvsten <2015015832@post.au.dk>"
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "^8.0.0"
+  },
+  "scripts": {
+    "start:reason": "bsb -make-world -w",
+    "start:webpack": "cross-env NODE_ENV=dev webpack-dev-server",
+    "clean": "bsb -clean-world",
+    "build": "npm run build:reason && npm run build:webpack",
+    "build:reason": "bsb -make-world",
+    "build:webpack": "cross-env NODE_ENV=prod webpack"
+  },
+  "keywords": [
+    "BuckleScript",
+    "ReasonML",
+    "React"
+  ],
+  "dependencies": {
+    "@glennsl/bs-json": "^3.0.0",
+    "@jsiebern/bs-material-ui": "^1.1.1",
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "@mscharley/bs-material-ui-icons": "^0.7.0",
+    "bs-css": "^8.0.3",
+    "bs-fetch": "^0.3.1",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "reason-react": ">=0.6.0"
+  },
+  "devDependencies": {
+    "bs-platform": "^5.0.0",
+    "cross-env": "^5.2.0",
+    "dotenv": "^7.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "copy-webpack-plugin": "^5.0.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
