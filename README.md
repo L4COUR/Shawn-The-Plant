@@ -1,4 +1,6 @@
 # Shawn-The-Plant
+#### API Code: 
+https://www.dropbox.com/sh/9bxziaxesk71qkp/AABLhStg8kQUypuXWNdmZiSfa?dl=0
 
 ## Pitch-Notes
 ### Why
@@ -60,3 +62,13 @@ Designet har meget symbolik og opildner til refleksion om samfundsmæssige konse
 Udseendet er simplistisk; det er organisk Argument for tørken: Skabe spændvidde for legende engagement. Også stor symbolsk værdi, og refleksionen er bedst, hvis det sker gennem legende engagement. 
 
 **Keep Shawn Alive!**
+
+Projektet created by:
+
+*Mark Staun Poulsen*
+
+*Anders Bryde Thornild*
+
+*Steffan Christ Sølvsten*
+
+*Frederik la Cour*
